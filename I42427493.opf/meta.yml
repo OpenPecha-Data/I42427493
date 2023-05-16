@@ -1,0 +1,19 @@
+id: I42427493
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:32:23.459202
+last_modified: 2023-01-04 11:32:23.459216
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  9A4F:
+    title: Concise Offering of the Body from the Root Text of the Heart Accomplishment
+      of the Guru Tukdrup, The Essential Manual of Oral Instructions (Shaldam Nyingjang)
+    base_file: 9A4F.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
